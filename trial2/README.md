@@ -1,4 +1,4 @@
-# Trial 2: The Not So Obvious bug
+# Trial 2: The Not So Obvious Bug
 ## Pre-requisites
    1. The same as in trial 1
 
