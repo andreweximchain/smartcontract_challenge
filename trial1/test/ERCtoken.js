@@ -10,6 +10,7 @@ contract('ERC20Token', (accounts) => {
 
   it('creation: should create an initial balance of 10000 for the creator', async () => {
     const balance = await HST.balanceOf.call(accounts[0]);
+    console.log(HST.address)
     console.log(balance)
     assert.strictEqual(balance.toNumber(), 10000);
   });

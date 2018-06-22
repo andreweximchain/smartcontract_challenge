@@ -7,4 +7,3 @@ Here we will go over so basic challenges for people who want to first get starte
 *
   1. Trial 1 ERC 20 token contract
   2. Trial 2 Find the bug!
-  3. Trial 3 Deploy your own contract
