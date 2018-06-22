@@ -102,5 +102,6 @@ BigNumber { s: 1, e: 4, c: [ 10000 ] }
 
    1. There is no transfer function currently implemented in this version of the ERC20token.sol your job is to understand how the ERC 20 token works and implement it. 
    2. The challenge is not meant to be hard, so try to avoid looking at example code of how ERC 20 token contracts currently work. Feel free to use https://solidity.readthedocs.io/en/v0.4.23/contracts.html as a resource.
-   3. good luck!
+   3. If you think your implementation is good you can test with the truffle test command shown above, if it passes all of the tests without issue you are good to go.
+   4. Good luck!
 
