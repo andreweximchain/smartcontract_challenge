@@ -1,7 +1,8 @@
 # Trial 1: ERC 20 Token Contract
 ## Pre-requisites
-   1. install truffle: https://truffleframework.com/
-   2. install ganache-cli: https://github.com/trufflesuite/ganache-cli
+   1. install npm/node https://nodejs.org/en/download/
+   2. install truffle: https://truffleframework.com/
+   3. install ganache-cli: https://github.com/trufflesuite/ganache-cli
 
 
 We will start by using the truffle framework to run and test our smart contracts, and make use of ganache-cli, a Fast Ethereum RPC client for testing and development. We do this so we do not have to deal with transaction times and faucets of the ethereum testnet or mainnet. You are more than welcome to later deploy your smart contracts to either networks, but you do so at your own risk.
