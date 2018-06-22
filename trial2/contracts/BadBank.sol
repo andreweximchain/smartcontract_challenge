@@ -17,6 +17,7 @@ contract BadBank {
     balances[msg.sender] = balances[msg.sender] + msg.value;
     return true;
   }
+  //Simple getter function to check the ethereum balance of the contract
   function checkBalance() public returns(uint256) {
     return address(this).balance;
   }
