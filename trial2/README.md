@@ -12,4 +12,6 @@
 
    1. There is a nefarious bug in this contract! It has to do with how fallback functions work. See if you can find it!
    2. For this challenge your job is to write a smart contract that can exploit the bug in BadBank.sol
-   3. There is some skeleton code already written for you in BankAttacker.sol. Try your best to fill in the blanks but if you can't I have already written up the the exploit in BankExploit.sol. You can even test to see that the exploit runs by using ```truffle test test/BankExploit.js```
+   3. There is some skeleton code already written for you in BankAttacker.sol. Try your best to fill in the blanks, but if you are having some trouble, I have already written up the the exploit in BankExploit.sol. 
+   
+You can even test to see that the exploit runs by running ```truffle test test/BankExploit.js```. Try your best to use this reference as a last resort. The bug is not the most obvious, and it is a simplified example of the infamous DAO hack.
