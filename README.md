@@ -1,5 +1,5 @@
 # Smart Contract Challenges
-Smart contract challenges for Angelhack 2018 Singapore
+Smart contract challenges for Angelhack 2018
 
 Welcome to Eximchain's smart contract challenges.
 
